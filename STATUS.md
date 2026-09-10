@@ -1,21 +1,45 @@
 # Project Status
 
 **Project:** What the Map Misses  
-**Repository state:** `REPOSITORY_INITIALIZED`  
-**Current phase:** Book-production architecture  
-**Active loop:** None yet  
+**Repository state:** `LOOP_1_READY`  
+**Current phase:** Thesis extraction and coherence audit  
+**Active loop:** `loops/01-thesis-extraction-and-coherence-audit.md`  
 **Canonical manuscript:** Not yet established  
 **Canonical thesis:** Not yet established  
 
 ## Current state
 
-The public repository and project README exist. The book-production scaffold has been established, but no thesis-extraction, historical-research, drafting, or publication loop has yet been executed.
+The public project README and book-production scaffold are established.
+
+The repository contains standing agent instructions in `AGENTS.md`, a publication-safe corpus intake boundary under `source/`, and the first executable book-production mission.
+
+Loop 1 is ready but has not yet been executed.
+
+## Required input before execution
+
+Substantive publication-safe authored material must be intentionally placed under `source/`.
+
+The loop must not substitute private StickShift context, unrelated local files, or the project README for the admitted author corpus.
+
+## Active mission
+
+`loops/01-thesis-extraction-and-coherence-audit.md`
+
+Loop 1 will:
+
+- inventory the admitted corpus;
+- extract stable claims and argument structure;
+- distinguish intellectual evolution from contradiction;
+- audit coherence;
+- identify empirical and historical research needs;
+- create author decision packets for irreconcilable conceptual conflicts;
+- and produce `book/thesis/THESIS-CANDIDATE-1.0.md`.
+
+Loop 1 does **not** conduct new external research or draft polished chapters.
 
 ## Next intended transition
 
-Install and execute Loop 1: corpus ingestion, thesis extraction, and coherence/conflict audit.
-
-Loop 1 must operate only on publication-safe source material intentionally placed under `source/` and repository-native project context.
+Populate `source/` with the publication-safe authored corpus, then execute Loop 1 in Codex/Astra from the repository root.
 
 ## State rule
 
