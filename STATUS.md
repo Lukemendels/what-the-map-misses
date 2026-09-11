@@ -1,7 +1,7 @@
 # Project Status
 
 **Project:** What the Map Misses  
-**Repository state:** `LOOP_1_READY`  
+**Repository state:** `LOOP_1_READY_CORPUS_SEEDED`  
 **Current phase:** Thesis extraction and coherence audit  
 **Active loop:** `loops/01-thesis-extraction-and-coherence-audit.md`  
 **Canonical manuscript:** Not yet established  
@@ -9,17 +9,19 @@
 
 ## Current state
 
-The public project README and book-production scaffold are established.
+The public project README, book-production scaffold, standing agent instructions, and Loop 1 are established.
 
-The repository contains standing agent instructions in `AGENTS.md`, a publication-safe corpus intake boundary under `source/`, and the first executable book-production mission.
+The publication-safe source corpus has now been deliberately seeded under `source/` with:
+
+- the published essays *We Were Portugal All Along* and *Don't Eat Your Seed Corn*;
+- the retired/unpublished value-capture draft *Portugal Didn't Have to Lose*;
+- draft V3 of *The Production Function Is Becoming Writable*;
+- MKS v3 and v4 specifications showing the institutional-theory lineage;
+- and a dated current-author synthesis capturing the book's September 11, 2026 conceptual position and explicit unresolved tensions.
+
+The source boundary remains public and intentional. Nothing outside `source/` should be treated as admitted author corpus unless the loop explicitly identifies repository-native project context permitted by its contract.
 
 Loop 1 is ready but has not yet been executed.
-
-## Required input before execution
-
-Substantive publication-safe authored material must be intentionally placed under `source/`.
-
-The loop must not substitute private StickShift context, unrelated local files, or the project README for the admitted author corpus.
 
 ## Active mission
 
@@ -39,7 +41,9 @@ Loop 1 does **not** conduct new external research or draft polished chapters.
 
 ## Next intended transition
 
-Populate `source/` with the publication-safe authored corpus, then execute Loop 1 in Codex/Astra from the repository root.
+Clone or pull the repository locally, start Codex/Astra from the repository root, read `AGENTS.md` and `STATUS.md`, and execute `loops/01-thesis-extraction-and-coherence-audit.md`.
+
+Do not add more infrastructure before Loop 1 unless execution exposes a concrete need.
 
 ## State rule
 
