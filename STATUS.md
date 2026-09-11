@@ -16,8 +16,13 @@ The publication-safe source corpus has now been deliberately seeded under `sourc
 - the published essays *We Were Portugal All Along* and *Don't Eat Your Seed Corn*;
 - the retired/unpublished value-capture draft *Portugal Didn't Have to Lose*;
 - draft V3 of *The Production Function Is Becoming Writable*;
+- the parked Essay 4 seed on simultaneous specialization / the Renaissance-person mechanism;
+- the parked Essay 5 seed *What I Can't See*, preserving the original steelman/limits ending of the five-essay arc;
+- the earlier predecessor draft *The Cognitive Factory Floor*, preserving the value-capture, software-capital, and architect/operator framing that preceded the later writable-production-function formulation;
 - MKS v3 and v4 specifications showing the institutional-theory lineage;
 - and a dated current-author synthesis capturing the book's September 11, 2026 conceptual position and explicit unresolved tensions.
+
+The corpus intentionally preserves superseded, parked, and predecessor material where it helps reconstruct intellectual evolution. Inclusion does not imply that every claim remains part of the current thesis.
 
 The source boundary remains public and intentional. Nothing outside `source/` should be treated as admitted author corpus unless the loop explicitly identifies repository-native project context permitted by its contract.
 
