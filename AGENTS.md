@@ -33,12 +33,25 @@ Do not silently resolve a material contradiction in Luke's ideas by choosing the
 - Do not delete contradictory evidence because it complicates the argument.
 - Use Git history as part of the project's intellectual provenance.
 
+## Remote durability
+
+The authoritative durable state is the remote repository, not an unpushed local clone.
+
+- A local commit is an intermediate state until it has been successfully pushed to the authoritative remote.
+- When an active loop requires a durable checkpoint, commit the checkpoint and push it to the designated authoritative branch before treating that checkpoint as durable.
+- Unless the active loop explicitly specifies another branch or remote, use `origin` and the repository's current authoritative branch.
+- Do not report a checkpoint or terminal state as durable merely because `git commit` succeeded locally.
+- After a required push, verify the remote contains the intended commit. Suitable verification includes fetching the remote and confirming that the local checkpoint or terminal commit is reachable from the corresponding remote branch.
+- If push fails because of authentication, divergence, branch protection, connectivity, or another concrete blocker, preserve the local commit, report the blocker truthfully, and do not claim remote durability.
+- Never force-push, rewrite published history, or discard remote work unless an explicit human instruction or active loop specifically authorizes it.
+
 ## Execution discipline
 
 - Read the active loop specification before beginning mission work.
 - Respect frozen or protected state declared by that loop.
 - Use deterministic checks where a deterministic property can be tested.
 - A commit is a state transition, not proof of completion.
+- A checkpoint required to be durable is not complete until its commit has been pushed and verified on the authoritative remote.
 - Do not declare success until the active loop's terminal condition is actually satisfied.
 - If a local failure occurs, make the smallest causal repair permitted by the loop rather than reopening completed work.
 
