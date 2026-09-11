@@ -121,9 +121,39 @@ Do not stop after:
 
 These are intermediate states.
 
-Continue until every admitted substantive source has been inventoried, the argument has been extracted, material tensions have been classified, required decision packets have been created, acceptance gates have been checked, durable state has been committed, and `STATUS.md` reflects the terminal state.
+Continue until every admitted substantive source has been inventoried, the argument has been extracted, material tensions have been classified, required decision packets have been created, acceptance gates have been checked, durable state has been committed and pushed to the authoritative remote, and `STATUS.md` reflects the terminal state.
 
 If the source corpus has not yet been populated with substantive authored material, do not fabricate an analysis from the README alone. Record the blocker in `STATUS.md`, preserve the repository, and terminate as `SOURCE_CORPUS_REQUIRED`.
+
+---
+
+# REMOTE DURABILITY CONTRACT
+
+The authoritative durable state for this mission is the remote GitHub repository, not an unpushed local clone.
+
+Unless repository state explicitly establishes a different authoritative branch, use `origin/main`.
+
+For every required checkpoint in this loop:
+
+1. complete the checkpoint artifacts;
+2. inspect the working tree;
+3. commit the checkpoint with the specified or equivalent message;
+4. push the checkpoint commit to the authoritative remote branch;
+5. verify that the remote branch contains the checkpoint commit;
+6. only then treat the checkpoint as durable and proceed to the next phase.
+
+A local commit alone is **not** a durable checkpoint.
+
+If push fails because of authentication, divergence, branch protection, connectivity, or another concrete blocker:
+
+- preserve the local commit;
+- diagnose the concrete failure;
+- make only safe, non-destructive repairs;
+- do not force-push or rewrite published history;
+- do not proceed as though the checkpoint were durable;
+- and do not report successful checkpoint or terminal completion until the required remote state exists.
+
+At terminal closeout, fetch the authoritative remote and verify that the final local `HEAD` is the commit referenced by, or is reachable from, the authoritative remote branch. The final user-facing completion report must report the remotely durable final commit SHA.
 
 ---
 
@@ -224,11 +254,13 @@ Do not smuggle a novel model-generated thesis into the ledger as though Luke alr
    - any obvious publication-safety concern discovered inside the admitted file.
 7. Confirm whether the corpus is sufficient to perform thesis extraction.
 
-If there is no substantive corpus, update `STATUS.md` to `SOURCE_CORPUS_REQUIRED`, commit the manifest/status state, and stop. Do not proceed using the README as a substitute corpus.
+If there is no substantive corpus, update `STATUS.md` to `SOURCE_CORPUS_REQUIRED`, commit the manifest/status state, push that commit to the authoritative remote, verify the remote contains it, and stop. Do not proceed using the README as a substitute corpus.
 
 If the corpus is sufficient, commit Checkpoint A with a message equivalent to:
 
 `Loop 1 checkpoint A: inventory admitted author corpus`
+
+Push the checkpoint commit to the authoritative remote and verify the remote contains it before proceeding to Checkpoint B.
 
 Record the checkpoint commit in the later completion artifact.
 
@@ -261,6 +293,8 @@ Do not equate repetition with importance. Infer centrality from how claims funct
 Commit Checkpoint B with a message equivalent to:
 
 `Loop 1 checkpoint B: extract claims and argument structure`
+
+Push the checkpoint commit to the authoritative remote and verify the remote contains it before proceeding to Checkpoint C.
 
 ## CHECKPOINT C — COHERENCE AND CONFLICT AUDIT
 
@@ -315,6 +349,8 @@ Commit Checkpoint C with a message equivalent to:
 
 `Loop 1 checkpoint C: complete coherence and conflict audit`
 
+Push the checkpoint commit to the authoritative remote and verify the remote contains it before proceeding to Checkpoint D.
+
 ## CHECKPOINT D — CANDIDATE THESIS
 
 Create:
@@ -367,6 +403,8 @@ Reference any `D-###` packets and explain which parts of the candidate thesis re
 
 Do not label this artifact final or frozen.
 
+Checkpoint D is incorporated into terminal closeout. Do not treat the candidate thesis as durable until the final Loop 1 commit containing it and the completion artifacts has been pushed and remotely verified.
+
 ---
 
 # AUTHORIAL ESCALATION RULE
@@ -413,7 +451,10 @@ Before terminal closeout, verify all applicable gates.
 - [ ] `evidence/coherence-audit.md` exists if the corpus was sufficient.
 - [ ] `STATUS.md` reflects the actual terminal state.
 - [ ] All mission outputs are committed to Git.
-- [ ] Final repository state is inspected after the last commit.
+- [ ] Every required checkpoint commit was pushed to the authoritative remote before the next checkpoint began.
+- [ ] The final Loop 1 commit was pushed to the authoritative remote.
+- [ ] After fetching the remote, the authoritative remote branch contains the final Loop 1 commit.
+- [ ] Final local and remote repository state is inspected after the last push.
 
 Do not substitute model confidence for these checks.
 
@@ -431,6 +472,8 @@ If an acceptance gate fails:
 6. continue toward terminal closeout.
 
 Do not use a local extraction or formatting problem as permission to rewrite the source corpus or expand into external research.
+
+If a required push fails, treat remote durability itself as the failed gate. Preserve the local commit, repair only the concrete Git/authentication/divergence issue where safe, and do not weaken the durability requirement to obtain a clean terminal state.
 
 ---
 
@@ -453,13 +496,14 @@ Use when:
 - the coherence audit is complete;
 - the candidate thesis exists;
 - acceptance gates pass;
+- all required commits are remotely durable;
 - and no material conflict requires Luke to choose between incompatible authored positions.
 
 The thesis is still a **candidate**, not frozen.
 
 ## `LOOP_1_COMPLETE_AUTHOR_DECISION_REQUIRED`
 
-Use when all non-dependent Loop 1 work is complete but one or more material authorial conflicts remain.
+Use when all non-dependent Loop 1 work is complete, all required commits are remotely durable, but one or more material authorial conflicts remain.
 
 All such conflicts must have complete `decisions/pending/D-###-*.md` packets.
 
@@ -480,6 +524,9 @@ Record:
 - Checkpoint B commit;
 - Checkpoint C commit;
 - final commit;
+- authoritative remote and branch;
+- remote-verification result for each required checkpoint;
+- remote-verification result for the final commit;
 - number of substantive source artifacts;
 - number of extracted claims;
 - number of empirical/historical research needs;
@@ -496,16 +543,20 @@ Commit the final state with a message equivalent to:
 
 `Loop 1 complete: thesis extraction and coherence audit`
 
-After the commit succeeds, inspect the repository state again.
+Push the final commit to the authoritative remote branch.
 
-A successful commit is not the final assistant action.
+Then fetch the remote and verify that the authoritative remote branch contains the final commit. Inspect both local and remote repository state after the push.
 
-Only after verifying the repository reflects the recorded terminal state, provide the user-facing completion report.
+A successful local commit is not terminal completion.
+
+A successful push without remote verification is not terminal completion.
+
+Only after the final commit is pushed, remotely verified, and the repository reflects the recorded terminal state may the user-facing completion report be produced.
 
 The report should state concisely:
 
 - terminal state;
-- final commit SHA;
+- remotely durable final commit SHA;
 - source/claim counts;
 - major thesis result;
 - whether author decisions are required;
