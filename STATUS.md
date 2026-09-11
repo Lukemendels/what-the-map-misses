@@ -1,55 +1,46 @@
 # Project Status
 
-**Project:** What the Map Misses  
-**Repository state:** `LOOP_1_READY_CORPUS_SEEDED`  
-**Current phase:** Thesis extraction and coherence audit  
-**Active loop:** `loops/01-thesis-extraction-and-coherence-audit.md`  
-**Canonical manuscript:** Not yet established  
-**Canonical thesis:** Not yet established  
+**Project:** What the Map Misses
+
+**Repository state:** `LOOP_1_COMPLETE_AUTHOR_DECISION_REQUIRED`
+
+**Current phase:** Loop 1 complete; author adjudication pending
+
+**Active loop:** `loops/01-thesis-extraction-and-coherence-audit.md` — terminal closeout
+
+**Canonical manuscript:** Not yet established
+
+**Canonical thesis:** Not yet established
+
+**Candidate thesis:** `book/thesis/THESIS-CANDIDATE-1.0.md` — not frozen
+
 
 ## Current state
 
-The public project README, book-production scaffold, standing agent instructions, and Loop 1 are established.
+Loop 1 has inventoried all ten substantive admitted sources, extracted 53 stable claims, mapped their dependencies, completed an 18-case coherence audit and assembled the conditional candidate thesis. Eighteen research programs identify later empirical and historical needs; no external research or chapter drafting occurred. Source files remain unchanged.
 
-The publication-safe source corpus has now been deliberately seeded under `source/` with:
+The shared thesis connects cheaper machine cognition and plastic software to redesign of the coupled production system. Human capability reproduction, meaningful authority, durable state and bounded-error institutions condition realized value. The early permanent human-monopoly claim is explicitly revised in the corpus; future adaptive-machine and human–AI capital remain conditional extensions.
 
-- the published essays *We Were Portugal All Along* and *Don't Eat Your Seed Corn*;
-- the retired/unpublished value-capture draft *Portugal Didn't Have to Lose*;
-- draft V3 of *The Production Function Is Becoming Writable*;
-- the parked Essay 4 seed on simultaneous specialization / the Renaissance-person mechanism;
-- the parked Essay 5 seed *What I Can't See*, preserving the original steelman/limits ending of the five-essay arc;
-- the earlier predecessor draft *The Cognitive Factory Floor*, preserving the value-capture, software-capital, and architect/operator framing that preceded the later writable-production-function formulation;
-- MKS v3 and v4 specifications showing the institutional-theory lineage;
-- and a dated current-author synthesis capturing the book's September 11, 2026 conceptual position and explicit unresolved tensions.
+Two unresolved authorial conflicts have complete packets:
 
-The corpus intentionally preserves superseded, parked, and predecessor material where it helps reconstruct intellectual evolution. Inclusion does not imply that every claim remains part of the current thesis.
+- `decisions/pending/D-001-middle-seat-apprenticeship.md`: whether ordinary middle-seat work develops the experts it requires or needs a deliberately added training pathway.
+- `decisions/pending/D-002-ownership-dominance.md`: whether ownership is robust under either human-moat outcome or a strategy conditional on redesign, competition and control rights.
 
-The source boundary remains public and intentional. Nothing outside `source/` should be treated as admitted author corpus unless the loop explicitly identifies repository-native project context permitted by its contract.
+No resolution has been chosen for Luke. All independent Loop 1 work is complete. Commit identities, remote-verification results and acceptance gates are recorded in `method/LOOP-1-COMPLETION.md`. This state becomes remotely durable only after the required terminal push and fetched-remote verification; the completion record tracks that gate explicitly.
 
-Loop 1 is ready but has not yet been executed.
+## Principal artifacts
 
-## Active mission
-
-`loops/01-thesis-extraction-and-coherence-audit.md`
-
-Loop 1 will:
-
-- inventory the admitted corpus;
-- extract stable claims and argument structure;
-- distinguish intellectual evolution from contradiction;
-- audit coherence;
-- identify empirical and historical research needs;
-- create author decision packets for irreconcilable conceptual conflicts;
-- and produce `book/thesis/THESIS-CANDIDATE-1.0.md`.
-
-Loop 1 does **not** conduct new external research or draft polished chapters.
+- `evidence/corpus-manifest.md`
+- `evidence/claims/CLAIM-LEDGER.md`
+- `evidence/argument-map.md`
+- `evidence/coherence-audit.md`
+- `book/thesis/THESIS-CANDIDATE-1.0.md`
+- `method/LOOP-1-COMPLETION.md`
 
 ## Next intended transition
 
-Clone or pull the repository locally, start Codex/Astra from the repository root, read `AGENTS.md` and `STATUS.md`, and execute `loops/01-thesis-extraction-and-coherence-audit.md`.
-
-Do not add more infrastructure before Loop 1 unless execution exposes a concrete need.
+Luke reviews the candidate and adjudicates D-001 and D-002. A later authorized author-adjudication/freeze loop must record those choices and establish `THESIS-1.0` if appropriate. The candidate is not canonical. Loop 2 and external research have not begun.
 
 ## State rule
 
-Update this file only when a meaningful project state transition occurs. Do not use conversational progress as a substitute for durable status.
+Update this file only when a meaningful project state transition occurs. The authoritative durable state is the pushed and verified remote repository, not a local commit or conversational claim.
