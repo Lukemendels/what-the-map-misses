@@ -4,7 +4,7 @@
 
 Executed `loops/01-thesis-extraction-and-coherence-audit.md` against the deliberately admitted repository corpus on 2026-09-11. Terminal payload state: **LOOP_1_COMPLETE_AUTHOR_DECISION_REQUIRED**. The candidate is not canonical or frozen. All independent extraction, mapping, auditing and candidate work is complete; D-001 and D-002 remain for Luke.
 
-This record is prepared before the terminal payload commit. Remote-dependent gates below remain pending until actual push/fetch verification. A subsequent verification receipt will record the payload SHA and observed result without attempting to embed a commit's own hash in its contents. No completion report is issued while a required remote gate is pending.
+This record includes a post-push verification receipt for the terminal payload. The payload commit is identified literally below; the receipt is a separate descendant commit so the evidence can record an observed result rather than predict it. The final receipt commit is recoverable with `git log -1 --format=%H -- method/LOOP-1-COMPLETION.md` at closeout. Its own push/fetch verification is enforced before the user-facing report; embedding its own eventual SHA in its contents would be self-referential.
 
 ## Git provenance and remote durability
 
@@ -16,7 +16,7 @@ Authoritative remote: `origin`, `https://github.com/Lukemendels/what-the-map-mis
 | Checkpoint A | `307155e4f1fa8c6802de53b1616f22466b42e255` | Pushed, fetched, ancestry check passed; HEAD and origin/main equal before B began. |
 | Checkpoint B | `2d382aa298bdbaa8f15b0dee11abc9f1f52803fc` | Pushed, fetched, ancestry check passed; HEAD and origin/main equal before C began. |
 | Checkpoint C | `7af6d8c929d5f890b1ce54c50f42016a2edcf6ff` | Pushed, fetched, ancestry check passed; HEAD and origin/main equal before D began. |
-| Final Loop 1 terminal payload | Pending commit | Push/fetch/ancestry and final tree inspection pending. |
+| Final Loop 1 terminal payload | `28cce29ec5abf73da8bf34a930ffceaae69691ee` | PASS — pushed to origin/main, fetched; ancestry check passed; HEAD and origin/main both exactly this SHA; clean working tree and empty local/remote diff observed. |
 
 No force-push, source rewrite or published-history rewrite occurred. Required sequential durability was respected.
 
@@ -51,12 +51,12 @@ No force-push, source rewrite or published-history rewrite occurred. Required se
 | No private/non-admitted context used | PASS — only repository input used; admitted provenance does not authorize following private origins. |
 | Candidate exists | PASS — `book/thesis/THESIS-CANDIDATE-1.0.md`. |
 | Coherence audit exists | PASS — `evidence/coherence-audit.md`. |
-| STATUS reflects terminal state | Prepared consistently as `LOOP_1_COMPLETE_AUTHOR_DECISION_REQUIRED`; remote durability pending below. |
-| All mission outputs committed | Pending terminal commit and verification receipt. |
+| STATUS reflects terminal state | PASS — `LOOP_1_COMPLETE_AUTHOR_DECISION_REQUIRED` in the remotely verified terminal payload. |
+| All mission outputs committed | PASS for terminal payload — all mission artifacts committed in 28cce29; this observed-verification receipt is the sole follow-up mutation, committed and remotely verified before final reporting. |
 | A/B/C pushed before next checkpoint | PASS — ordered tool results and exact equality checks recorded above. |
-| Final Loop 1 commit pushed | Pending terminal push. |
-| Fetched remote contains final commit | Pending terminal fetch and ancestry check. |
-| Final local/remote state inspected | Pending after final push; no completion claim until passed. |
+| Final Loop 1 commit pushed | PASS — terminal payload push succeeded. |
+| Fetched remote contains final commit | PASS — fetched origin/main equals 28cce29; ancestry check exit 0. |
+| Final local/remote state inspected | PASS — clean `git status -sb`, identical HEAD/origin/main and empty tree diff after payload push. Repeated after receipt push before final reporting. |
 
 Deterministic checks ran successfully using Python 3 plus Git: complete source/manifest set equality; original blob equality; protected `source/`, `README.md`, `AGENTS.md` and `loops/` diff against the start commit; ledger field, ID and source-path checks; cross-artifact claim references; 18 research headings; 18 audit headings; two ten-part packets; A/B/C reachability; `git diff --check`. Semantic gates were separately reviewed against the complete corpus and loop, not inferred from those structural checks. No software product tests apply to this textual extraction.
 
@@ -84,3 +84,9 @@ Principal artifacts:
 - `decisions/pending/D-002-ownership-dominance.md`
 
 **Exact next recommended transition:** Luke reviews the candidate and adjudicates D-001 (whether ordinary middle-seat work can produce expert judgment) and D-002 (whether ownership is robust or conditional). Preserve his resulting choices in a later authorized author-adjudication/freeze loop before establishing `THESIS-1.0`. Do not start external research, polished chapter drafting or Loop 2 under this completion record.
+
+## Verification receipt and final-HEAD convention
+
+Observed after the terminal payload push: `git fetch origin`, `git merge-base --is-ancestor HEAD origin/main`, `git rev-parse HEAD origin/main`, `git status -sb`, and `git diff --exit-code HEAD origin/main` all succeeded; both SHA outputs were `28cce29ec5abf73da8bf34a930ffceaae69691ee`, status showed clean `main...origin/main`, and tree diff was empty. A/B/C remain ancestors. This receipt and a corresponding status clarification change only closeout metadata, not the candidate or evidence.
+
+The **terminal payload commit** is 28cce29 above. The **final repository HEAD** is the descendant commit recording this receipt; recover it using the file-history command above and the final user report. Closeout requires that descendant to be pushed, fetched and reachable from origin/main too, with a clean working tree. A receipt commit alone is not remote durability. This distinction avoids both pretending a future verification has already happened and an impossible literal self-hash.

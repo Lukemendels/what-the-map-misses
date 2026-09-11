@@ -26,7 +26,7 @@ Two unresolved authorial conflicts have complete packets:
 - `decisions/pending/D-001-middle-seat-apprenticeship.md`: whether ordinary middle-seat work develops the experts it requires or needs a deliberately added training pathway.
 - `decisions/pending/D-002-ownership-dominance.md`: whether ownership is robust under either human-moat outcome or a strategy conditional on redesign, competition and control rights.
 
-No resolution has been chosen for Luke. All independent Loop 1 work is complete. Commit identities, remote-verification results and acceptance gates are recorded in `method/LOOP-1-COMPLETION.md`. This state becomes remotely durable only after the required terminal push and fetched-remote verification; the completion record tracks that gate explicitly.
+No resolution has been chosen for Luke. All independent Loop 1 work is complete. Commit identities, remote-verification results and acceptance gates are recorded in `method/LOOP-1-COMPLETION.md`. The terminal payload `28cce29ec5abf73da8bf34a930ffceaae69691ee` was pushed to `origin/main`, fetched and verified with matching local/remote commits and a clean tree. The completion record includes the observed verification receipt; its descendant closeout commit is also pushed and verified before reporting completion.
 
 ## Principal artifacts
 
