@@ -19,7 +19,7 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-03 | [Economic definitions and trade reasoning](R-03/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-04 | [Redesign mechanism and electrification](R-04/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-06 | [Tacit and situated knowledge](R-06/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
-| R-07 | Meaningful human authority | In progress |
+| R-07 | [Meaningful human authority](R-07/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-13 | [Institutional reliability and MKS mechanisms](R-13/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-14 | Persistent cognition and capital formation | In progress |
 | R-16 | Machine professional development | In progress |
