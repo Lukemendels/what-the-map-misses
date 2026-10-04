@@ -61,3 +61,13 @@ R-01/R-12 were published and exactly verified on main at `c6dbd46d1cbe38ab11d903
 R-02 passes independent substantive review of all eight admitted claims. Targeted checks cover the separate official usage sources and classification denominators, coding trial/field designs, corrected METR methods and selection, repository output versus releases and uptake, transcript-based expertise measures, novice/low-code evidence, security counterevidence and lifecycle/platform guidance. Tool-use volume is not presented as completed software or realized time savings. Public author testimony is not privately investigated or promoted into causal proof.
 
 R-05's brief METR factual summaries are consolidated into the R-02 source capsule, retaining only the distinct capture inference. The software threshold claim remains conditional on total lifecycle outcomes; the review neither promises universal developer gains nor treats raw code as automatic ownership or costless portability. Stable claims, source versions and genuine evidence gaps are preserved. Exact remote verification follows publication.
+
+## R-02 verification and R-03/R-04 substantive checkpoint
+
+R-02 was published and exactly verified on main at `4511e966f7ab34accfa94f02baf1f1c0f5161835`.
+
+R-03 and R-04 pass independent substantive review. Primary checks cover formal production sets/frontiers and empirical production relations, stated comparative-advantage examples, the 1995 correction to Milgrom–Roberts, organizational complementarity, intervention units and costs, PAL's same-model comparison, clinical screening endpoint versions, and revised retail sales findings. Definitions, mechanisms, observed outcomes and normative choices remain distinct. Auxiliary equivalence tests are labeled rather than attributed to the author.
+
+The weaker-model/better-system claim is qualified: the particular evidence capsule establishes same-model architectural improvement, not the stated cross-model capability ranking. The BBH sample/method capsule is consolidated into R-04, with R-18 preserving its historical implication by reference. AutoReviewer remains admitted first-person testimony after a bounded public-only search; no private origin was accessed and absence of corroboration is not called disproof.
+
+Both reviews preserve the operational production-design argument while rejecting unqualified identity with a formal production function or a universal fully costed redesign premium. Exact source scopes and unresolved questions remain visible. Remote verification follows publication; no thesis is frozen.

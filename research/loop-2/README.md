@@ -16,14 +16,14 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-15 | [Residual rights and experiential assets](R-15/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-01 | [Cognition supply and demand](R-01/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-02 | [Software threshold and full lifecycle cost](R-02/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
-| R-03 | Economic definitions and trade reasoning | In progress |
-| R-04 | Redesign mechanism and electrification | In progress |
+| R-03 | [Economic definitions and trade reasoning](R-03/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
+| R-04 | [Redesign mechanism and electrification](R-04/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-06 | Tacit and situated knowledge | In progress |
 | R-07 | Meaningful human authority | In progress |
 | R-13 | Institutional reliability and MKS mechanisms | In progress |
 | R-14 | Persistent cognition and capital formation | In progress |
-| R-16 | Machine professional development | Not yet started |
-| R-17 | Human–AI paired productivity | Not yet started |
+| R-16 | Machine professional development | In progress |
+| R-17 | Human–AI paired productivity | In progress |
 
 R-11 is placed before R-12 in the value/distribution group because accounting categories constrain the macro argument. This restores the program omitted from the verbal grouping while retaining the authorized all-eighteen scope. R-18 completed first. By the subsequent author instruction, remaining reviews may run concurrently across groups, with this order guiding slot assignment and dependencies reconciled at synthesis.
 

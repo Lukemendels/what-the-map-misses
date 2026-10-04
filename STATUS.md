@@ -6,7 +6,7 @@
 
 **Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
 
-**Current phase:** Ten substantive reviews complete; remaining definitions, redesign, knowledge, authority, reliability and future-extension programs continue
+**Current phase:** Twelve substantive reviews complete; R-06, R-07, R-13, R-14, R-16 and R-17 continue through research and independent quality review
 
 **Canonical manuscript:** Not established
 
@@ -22,7 +22,7 @@ Luke authorized substantial literature reviews across all eighteen programs, wit
 
 [R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. The R-18 checkpoint is remotely verified on main at `f9948f2ce67f7e13755021a68cfe1a6b1dd95664`.
 
-The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-05, R-08, R-09 and R-10 were published and exactly verified on main at `307aaeacd5737938a63399754defa30ef282ffe5`. R-11 is remotely verified at `09f33cf2bc5886b1041e277038b18775cd8ae601`. R-15 is remotely verified at `a80ba696bc5bffd587ac868e51a29314f9752d86`. R-01 and R-12 are remotely verified at `c6dbd46d1cbe38ab11d903fba0dd1dd4ff26ef74`. R-02 has passed independent substantive review and is included in this checkpoint. R-03, R-04, R-06, R-07, R-13 and R-14 are in progress or quality review; two programs have not yet started. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
+The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-05, R-08, R-09 and R-10 were published and exactly verified on main at `307aaeacd5737938a63399754defa30ef282ffe5`. R-11 is remotely verified at `09f33cf2bc5886b1041e277038b18775cd8ae601`. R-15 is remotely verified at `a80ba696bc5bffd587ac868e51a29314f9752d86`. R-01 and R-12 are remotely verified at `c6dbd46d1cbe38ab11d903fba0dd1dd4ff26ef74`. R-02 is remotely verified at `4511e966f7ab34accfa94f02baf1f1c0f5161835`. R-03/R-04 have passed independent substantive review and are included together in this checkpoint. R-06, R-07, R-13, R-14, R-16 and R-17 are in progress or quality review. Every program has started; none is omitted. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
 
 ## Main research implications so far
 
