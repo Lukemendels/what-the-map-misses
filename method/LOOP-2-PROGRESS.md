@@ -71,3 +71,11 @@ R-03 and R-04 pass independent substantive review. Primary checks cover formal p
 The weaker-model/better-system claim is qualified: the particular evidence capsule establishes same-model architectural improvement, not the stated cross-model capability ranking. The BBH sample/method capsule is consolidated into R-04, with R-18 preserving its historical implication by reference. AutoReviewer remains admitted first-person testimony after a bounded public-only search; no private origin was accessed and absence of corroboration is not called disproof.
 
 Both reviews preserve the operational production-design argument while rejecting unqualified identity with a formal production function or a universal fully costed redesign premium. Exact source scopes and unresolved questions remain visible. Remote verification follows publication; no thesis is frozen.
+
+## R-03/R-04 verification and R-06 substantive checkpoint
+
+R-03/R-04 were published and exactly verified on main at `867c7fc9a0858b76a3a4272196a5aa1abb335cc2`.
+
+R-06 passes independent substantive review. Targeted primary checks cover philosophical disagreement about tacitness, institutional learning, empirical transfer and monitoring designs, technical learning versions/denominators and consent guidance. The superseded eternal-monopoly assertion, current workflow-specific contribution and provisional defenses are kept distinct. Observation, representation, inference, practice and legitimate access are not collapsed into a species-level boundary. Counterevidence is integrated without asserting complete machine capture of all situated knowledge.
+
+The recoverable Polanyi source link was improved to the working official www host. The review preserves bounded technical examples, conditional surveillance effects and genuine knowledge/access gaps. No private institutional evidence was sought. Exact remote verification follows publication.
