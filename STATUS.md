@@ -2,39 +2,35 @@
 
 **Project:** What the Map Misses
 
-**Repository state:** `LOOP_2_LITERATURE_REVIEWS_IN_PROGRESS`
+**Repository state:** `LOOP_2_COMPLETE_RESEARCH_REVIEW_READY`
 
-**Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
+**Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md) — terminal closeout
 
-**Current phase:** All eighteen individual literature reviews have passed substantive quality review; cross-program synthesis and final closeout remain in progress
+**Current phase:** All eighteen literature reviews, cross-program synthesis, exact claim outcomes and author refinement questions complete; terminal report requires the verified remote receipt
 
 **Canonical manuscript:** Not established
 
 **Canonical thesis:** Not established; the [Loop 1 candidate](book/thesis/THESIS-CANDIDATE-1.0.md) remains a protected historical snapshot
 
-## Current author positions
+## Result and entry points
 
-[D-001](decisions/resolved/D-001-middle-seat-apprenticeship.md) and [D-002](decisions/resolved/D-002-ownership-dominance.md), accepted 4 October 2026, remain current and revisable. Foundational understanding, informed tool use and supervised judgment development remain author intent; ownership remains one conditional capture channel alongside distinct productive labor activities. Research acceptance does not prove these positions or freeze them.
+- [Start with the cross-program synthesis](research/loop-2/CROSS-PROGRAM-SYNTHESIS.md).
+- [Inspect the exact claim-outcome matrix](research/loop-2/CLAIM-OUTCOMES.md): all 46 research-linked propositions, plus explicit contextual treatment of the other seven historical claims.
+- [Read all eighteen literature reviews](research/loop-2/README.md), with claim-level ledgers, recoverable bibliography, inspected versions, method/access limits, counterevidence and investigated gaps.
+- [Check completion and remote durability](method/LOOP-2-COMPLETION.md).
 
-## Research progress
+The research supports important conditional mechanisms while rejecting shortcuts from cheap inputs to lifecycle gains, assisted output to independent expertise, productive contribution to compensation, copyable state to portable owned capital, and investment or throughput to welfare. The reviews preserve positive findings and material contrary evidence; unresolved empirical magnitudes and future mechanisms are not disguised as settled facts.
 
-Luke authorized substantial literature reviews across all eighteen programs, with historical analogies first, and explicitly approved publication of the plan, reviews, evidence records and progress updates to this public repository.
+## Author authority and preserved provenance
 
-[R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. The R-18 checkpoint is remotely verified on main at `f9948f2ce67f7e13755021a68cfe1a6b1dd95664`.
+[D-001](decisions/resolved/D-001-middle-seat-apprenticeship.md) and [D-002](decisions/resolved/D-002-ownership-dominance.md), accepted 4 October 2026, remain current and revisable. Their efficacy and implementation are empirical questions; neither is reopened as pending, silently revised, or made canonical by research acceptance. No normative property allocation, permanent human monopoly, universal productive unit or final thesis is selected on Luke's behalf.
 
-The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-05, R-08, R-09 and R-10 were published and exactly verified on main at `307aaeacd5737938a63399754defa30ef282ffe5`. R-11 is remotely verified at `09f33cf2bc5886b1041e277038b18775cd8ae601`. R-15 is remotely verified at `a80ba696bc5bffd587ac868e51a29314f9752d86`. R-01 and R-12 are remotely verified at `c6dbd46d1cbe38ab11d903fba0dd1dd4ff26ef74`. R-02 is remotely verified at `4511e966f7ab34accfa94f02baf1f1c0f5161835`. R-03/R-04 are remotely verified at `867c7fc9a0858b76a3a4272196a5aa1abb335cc2`. R-06 is remotely verified at `a182392e45c0c532e20cedb56d8335cdc26b6764`. R-13 is remotely verified at `7ec4dbcd3317b11f122e873dc19cec7220a5a744`. R-07 is remotely verified at `dc1f890a554b719c458a8c3a8fa2dd11e4e2a0ef`. R-14/R-16 are remotely verified at `f74342f559a27dbd249e835a4bf37e1ccf51e607`. R-17 has passed independent substantive review and is included in this checkpoint. Every program has been researched. Overall completion still requires accepted cross-program synthesis, the final outcome matrix, complete quality/structural checks and verified remote closeout. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
+Loop 1's ten admitted substantive sources, 53 stable claim IDs, original opposing evidence, historical candidate/audit/completion record and author-decision records remain unchanged. Research dispositions live separately. The last individual-review checkpoint is `ac8f3aeecc2de842a54f00160b287ae02e708da6`, verified on main before terminal synthesis publication.
 
-## Main research implications so far
+## Exact next transition
 
-The new reviews distinguish assisted output, retained learning, transfer and consequential judgment; explain senior knowledge as a conditional investment problem; test acquisition and coordination mechanisms; and separate productive architecture, education and operation from actual compensation. Version changes in published studies and proposition-level source scope are recorded rather than hidden.
-
-
-History requires distinctions among exchange, productive development, learning, compensation, investment and welfare. Several categorical predecessor claims need qualification or correction. These findings are recorded separately from the unchanged historical source corpus and ledger. Genuine evidence gaps remain explicit; no unsupported historical law becomes acceptable merely by author preference.
-
-## Preserved provenance
-
-Loop 1 remains complete, with ten admitted substantive sources, 53 stable claim IDs, its coherence audit and 18-program register. Its original opposing evidence, decisions and completion record remain intact. The author-decision recording checkpoint is `af95fe0e2e43766500680b6dddea4a1e7c1596e9`; Loop 2's contract checkpoint is `1b2f85555b0d4b78e703a089ee1a7aaf6c41a9b7`, verified on main before research began.
+Luke reviews the synthesis and its prioritized author-refinement questions, then may separately authorize candidate-thesis revision or a drafting loop. Factual corrections and evidentiary limits must be retained; research completion itself does not authorize that next phase.
 
 ## State rule
 
-The authoritative state is the remote public repository on main. A prepared artifact or Git commit alone does not meet durability. Publication uses non-force descendant commits and exact remote-reference verification. The overall task is not complete until all eighteen reviews and the cross-program closeout pass the active loop's gates. No chapters are drafted and no thesis is frozen in this loop.
+The authoritative state is remote main. Terminal success is reportable only after the payload and its verification receipt are published without force and the remote reference is checked. The completion record distinguishes observed prior verification from its own eventual commit hash. A local artifact or unreferenced Git object is not the completed public record.

@@ -1,6 +1,12 @@
-# Loop 2 — Literature reviews
+# Loop 2 — Eighteen completed literature reviews
 
 The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all eighteen programs, scope and acceptance conditions. Research judgments do not adopt a thesis or revise Luke's accepted author positions. Each completed review distinguishes supported, qualified, contradicted and genuinely unresolved propositions.
+
+## Start here
+
+- [Cross-program synthesis and prioritized author questions](CROSS-PROGRAM-SYNTHESIS.md)
+- [Exact claim outcomes: 46 research-linked claims](CLAIM-OUTCOMES.md)
+- [Completion, quality gates and remote-verification record](../../method/LOOP-2-COMPLETION.md)
 
 ## Program register in authorized order
 
@@ -23,10 +29,10 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-13 | [Institutional reliability and MKS mechanisms](R-13/README.md) | Complete; [verified checkpoint](https://github.com/Lukemendels/what-the-map-misses/commit/7ec4dbcd3317b11f122e873dc19cec7220a5a744) |
 | R-14 | [Persistent cognition and capital formation](R-14/README.md) | Complete; [verified checkpoint](https://github.com/Lukemendels/what-the-map-misses/commit/f74342f559a27dbd249e835a4bf37e1ccf51e607) |
 | R-16 | [Machine professional development](R-16/README.md) | Complete; [verified checkpoint](https://github.com/Lukemendels/what-the-map-misses/commit/f74342f559a27dbd249e835a4bf37e1ccf51e607) |
-| R-17 | [Human–AI paired productivity](R-17/README.md) | Substantive review complete; this checkpoint requires post-publication verification |
+| R-17 | [Human–AI paired productivity](R-17/README.md) | Complete; [verified checkpoint](https://github.com/Lukemendels/what-the-map-misses/commit/ac8f3aeecc2de842a54f00160b287ae02e708da6) |
 
 R-11 is placed before R-12 in the value/distribution group because accounting categories constrain the macro argument. This restores the program omitted from the verbal grouping while retaining the authorized all-eighteen scope. R-18 completed first. By the subsequent author instruction, remaining reviews may run concurrently across groups, with this order guiding slot assignment and dependencies reconciled at synthesis.
 
 ## Completion discipline
 
-A review being complete does not imply its empirical claims are all resolved. Missing data, access limitations and unidentified causal effects remain explicit. Conversely, an unperformed review is not called unresolved research. The overall campaign remains in progress until all eighteen reviews, cross-program synthesis, author questions, quality checks and remote verification are complete.
+A review being complete does not imply its empirical claims are all resolved. Missing data, access limitations and unidentified causal effects remain explicit. Conversely, an unperformed review is not called unresolved research. All eighteen individual reviews and the integrated synthesis have passed substantive quality review. The completion record supplies structural and remote-verification evidence for terminal closeout; research uncertainty remains distinct from incomplete execution.
