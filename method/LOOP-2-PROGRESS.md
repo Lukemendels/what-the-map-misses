@@ -35,3 +35,11 @@ No downloaded source cache, private context, unreviewed manuscript chapter or in
 R-11 is accepted after independent checks of the SNA standards, BEA implementation and valuation guidance, source versions, open-source cost reconstructions, digital valuation and the measurement debate. Exact C-023–C-025 quantifiers are preserved. A repair clarifies that a one-off level gain is not new growth each year, while recurring service/welfare benefits remain legitimate. R-18's shared 2019 digital-choice capsule is consolidated into R-11, with a link preserving the historical implication. The review distinguishes documented implementation from a newly issued international standard, and production cost from asset services and welfare. No inference that free price means exclusion from GDP survives. AI-induced scale and distribution remain explicit empirical gaps.
 
 Relative links/anchors, stable claim identifiers and original protected blobs are checked before this checkpoint. Exact remote verification follows publication; no self-referential future SHA is invented.
+
+## R-11 verification and R-15 substantive checkpoint
+
+R-11 was published and exactly verified on main at `09f33cf2bc5886b1041e277038b18775cd8ae601`.
+
+R-15 passes its bounded independent source/semantic review: seven admitted claims, incomplete-contract assumptions, relational and residual-control distinctions, component-level copying/permission/portability/value analysis, alternative governance designs and investigated unknowns. Targeted checks include primary theory, empirical methods and major official legal/agency sources. The U.S. legal discussion is explicitly illustrative; its DTSA analysis is tied to the inspected official 2024 text after current endpoints failed. Current FTC and USPTO materials are separately dated. An unsupported allegation of inconsistent active-member definitions in an older empirical manuscript was removed; its verified definition and genuine selection limits remain. An unfinished R-17 link routes to the program register, without pretending its paired-productivity evidence is complete.
+
+The analysis does not assign the author a normative property-rights position or derive lawful portability from technical copyability. Publication uses the same non-force descendant and exact remote-verification gate.
