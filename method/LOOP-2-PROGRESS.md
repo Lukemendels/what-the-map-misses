@@ -6,7 +6,9 @@
 - R-18 historical review: `f9948f2ce67f7e13755021a68cfe1a6b1dd95664`, non-force publication and exact remote main verification passed.
 - Concurrent-execution amendment: `b2f17b7cbd4e00a62c8b056862ba5636ff2bd8b3`, exact remote main verification passed.
 
-## Current substantive checkpoint
+- R-05/R-08/R-09/R-10: `307aaeacd5737938a63399754defa30ef282ffe5`, descendant publication and exact remote main verification passed.
+
+## Prior substantive checkpoint
 
 R-05, R-08, R-09 and R-10 are accepted after targeted independent source and semantic review. Their shared-source links are published together. The gate checks exact registered scope, integrated debate and mechanisms, access/version/method statements, counterevidence, claim-level judgments, source budgets and the separation of author choices from empirical findings. It does not substitute bibliography size or document length for research adequacy.
 
@@ -27,3 +29,9 @@ The reviews preserve genuine gaps: the complete developmental architecture lacks
 The coordinator checks relative links and fragment anchors, unique R-01–R-18 register coverage, absence of raw tool citation markers, stable claim identifiers, exact write scope and unchanged protected original blobs. Publication uses a descendant commit, a non-force branch update and a read of the remote reference. This record does not predict its own commit hash: the current checkpoint's observed verification is recorded at the next update or final closeout, and the exact verified SHA is returned with the result.
 
 No downloaded source cache, private context, unreviewed manuscript chapter or internal working report is included. The overall campaign remains in progress until all eighteen programs and cross-program synthesis pass and are remotely verified.
+
+## R-11 substantive checkpoint
+
+R-11 is accepted after independent checks of the SNA standards, BEA implementation and valuation guidance, source versions, open-source cost reconstructions, digital valuation and the measurement debate. Exact C-023–C-025 quantifiers are preserved. A repair clarifies that a one-off level gain is not new growth each year, while recurring service/welfare benefits remain legitimate. R-18's shared 2019 digital-choice capsule is consolidated into R-11, with a link preserving the historical implication. The review distinguishes documented implementation from a newly issued international standard, and production cost from asset services and welfare. No inference that free price means exclusion from GDP survives. AI-induced scale and distribution remain explicit empirical gaps.
+
+Relative links/anchors, stable claim identifiers and original protected blobs are checked before this checkpoint. Exact remote verification follows publication; no self-referential future SHA is invented.

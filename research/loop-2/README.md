@@ -11,12 +11,12 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-09 | [Labor, senior stocks and incentives](R-09/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-10 | [Specialization and acquisition cost](R-10/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-05 | [Competitive advantage and value capture](R-05/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
-| R-11 | Own-account capital and welfare measurement | In progress |
+| R-11 | [Own-account capital and welfare measurement](R-11/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-12 | Macro adjustment and distribution | In progress |
 | R-15 | Residual rights and experiential assets | In progress |
 | R-01 | Cognition supply and demand | In progress |
 | R-02 | Software threshold and full lifecycle cost | In progress |
-| R-03 | Economic definitions and trade reasoning | Not yet started |
+| R-03 | Economic definitions and trade reasoning | In progress |
 | R-04 | Redesign mechanism and electrification | Not yet started |
 | R-06 | Tacit and situated knowledge | Not yet started |
 | R-07 | Meaningful human authority | Not yet started |
