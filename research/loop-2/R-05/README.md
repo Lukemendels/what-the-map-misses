@@ -92,9 +92,9 @@ Architectural, educational and operational contributions may therefore coexist w
 
 ### Software performance is sensitive to task selection and tool vintage
 
-METR's early-2025 randomized study assigned 246 real repository tasks among 16 experienced open-source developers to AI-allowed or disallowed conditions. Completion took 19% longer with AI, contrary to participants' beliefs. This bounded result measures experienced maintainers using the tools available in February–June 2025, not all coding or all noncoders. The paper examines quality and task-process explanations; it does not establish that architecture is permanently human or that visual development would outperform code generation. [R05-S13, §§2–4 and limitations]
+The early coding experiment and its later follow-up are consolidated in [R-02's METR capsule](../R-02/README.md#metr-the-early-rct-and-the-later-selection-problem). The economic inference here is narrower: task, worker and tool selection must be specified before a productivity finding can inform a capture argument. [R05-S13]
 
-METR's February 2026 follow-up explicitly calls its later estimate unreliable: developers and tasks selected out when participants disliked working without AI, compensation changed, and concurrent agents complicated time accounting. Raw speedup estimates are not a clean reversal or a current universal rate. The researchers judge acceleration plausible while withholding a reliable magnitude. This methodological update belongs beside the earlier finding whenever it is used. [R05-S14, opening and “Wider adoption”]
+The later study's selection and measurement problems, documented in the same R-02 section, prevent treating a changed point estimate as a clean economic reversal. [R05-S14]
 
 These studies show why total work matters. Coding time, review, rework, operational deployment and foregone alternatives can move differently. A low-cost prototype is not automatically a low-cost maintained service. R-02 owns the detailed lifecycle comparison; this review uses it only to reject an automatic production-to-capture bridge.
 
