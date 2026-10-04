@@ -1,5 +1,7 @@
 # Argument map
 
+> **Current-state notice — 4 October 2026:** This document preserves the Loop 1 snapshot. Its references to pending D-001/D-002 decisions, unadopted syntheses and author-decision-required classifications are historical. Luke has since accepted [D-001](../decisions/resolved/D-001-middle-seat-apprenticeship.md) and [D-002](../decisions/resolved/D-002-ownership-dominance.md) as current, revisable author positions. D-001 conditions station-to-expert development on manual foundational understanding, informed abstraction and supervised substantive judgment. D-002 revises ownership-only dominance into a conditional account of ownership, architectural work, tool-use education and consequential operation. These records govern current author intent; the snapshot below preserves the prior reasoning and evidence. No empirical research is thereby completed, and no thesis is frozen. Full candidate and claim-ledger revision remains a separate step.
+
 Checkpoint B. Claim text, exact source paths, statuses and research needs live in `evidence/claims/CLAIM-LEDGER.md`. This map reconstructs reasoning, not evidentiary proof. Centrality follows dependency: the joint change in inputs and arrangements connects the economic, training and institutional arguments; repeated Portugal imagery does not make the retired historical thesis the governing premise.
 
 ## Foundation → mechanism → book conclusion

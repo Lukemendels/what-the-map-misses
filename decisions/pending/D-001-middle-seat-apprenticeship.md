@@ -1,5 +1,7 @@
 # D-001 — Does middle-seat work reproduce the judgment it needs?
 
+> **Current-state notice — 4 October 2026:** Resolved as a current, revisable author position in the [accepted decision](../resolved/D-001-middle-seat-apprenticeship.md). The original Loop 1 packet below is retained unchanged as intellectual provenance. Its PENDING status and questions are historical.
+
 **Status:** PENDING — AUTHOR_DECISION_REQUIRED. Loop 1 identifies the fork and does not select a resolution.
 
 ## 1. Decision ID

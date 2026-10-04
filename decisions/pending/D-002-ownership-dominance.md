@@ -1,5 +1,7 @@
 # D-002 — Is ownership a robust conclusion or a conditional strategy?
 
+> **Current-state notice — 4 October 2026:** Resolved as a current, revisable author position in the [accepted decision](../resolved/D-002-ownership-dominance.md). The original Loop 1 packet below is retained unchanged as intellectual provenance. Its PENDING status and questions are historical.
+
 **Status:** PENDING — AUTHOR_DECISION_REQUIRED. The candidate leaves this conclusion conditional.
 
 ## 1. Decision ID
