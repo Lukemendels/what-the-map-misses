@@ -80,7 +80,7 @@ Important unresolved questions include representative useful-task lifecycle cost
 
 ## Terminal verification receipt
 
-**Terminal payload:** publication/verification pending in this prepared record. No future SHA or observed result is invented. After publication, an exact remote-reference read must identify the payload; a descendant receipt records that observed SHA and is itself published and verified before reporting completion.
+**Terminal payload:** `afd375f2910637a62bed5ceae2b7b45901328b05`. Observed 4 October 2026: non-force publication succeeded and the remote main reference exactly equaled this SHA. The complete single-parent chain from the start through all fourteen recorded checkpoints and this payload was independently read and checked. All thirty-two protected original non-STATUS blobs remained identical. This descendant receipt records that observed result; its own publication and exact remote-reference verification are required before the completion report.
 
 The final reported repository HEAD is the receipt commit. It cannot contain its own literal future hash; recover it from this file history and the final completion report. This convention separates the terminal payload from the subsequent observation without weakening remote durability.
 

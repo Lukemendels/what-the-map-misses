@@ -4,9 +4,9 @@
 
 **Repository state:** `LOOP_2_COMPLETE_RESEARCH_REVIEW_READY`
 
-**Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md) — terminal closeout
+**Completed loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
 
-**Current phase:** All eighteen literature reviews, cross-program synthesis, exact claim outcomes and author refinement questions complete; terminal report requires the verified remote receipt
+**Current phase:** Research review ready for Luke; all eighteen literature reviews, integrated synthesis, exact claim outcomes and author refinement questions complete
 
 **Canonical manuscript:** Not established
 
@@ -25,7 +25,7 @@ The research supports important conditional mechanisms while rejecting shortcuts
 
 [D-001](decisions/resolved/D-001-middle-seat-apprenticeship.md) and [D-002](decisions/resolved/D-002-ownership-dominance.md), accepted 4 October 2026, remain current and revisable. Their efficacy and implementation are empirical questions; neither is reopened as pending, silently revised, or made canonical by research acceptance. No normative property allocation, permanent human monopoly, universal productive unit or final thesis is selected on Luke's behalf.
 
-Loop 1's ten admitted substantive sources, 53 stable claim IDs, original opposing evidence, historical candidate/audit/completion record and author-decision records remain unchanged. Research dispositions live separately. The last individual-review checkpoint is `ac8f3aeecc2de842a54f00160b287ae02e708da6`, verified on main before terminal synthesis publication.
+Loop 1's ten admitted substantive sources, 53 stable claim IDs, original opposing evidence, historical candidate/audit/completion record and author-decision records remain unchanged. Research dispositions live separately. The last individual-review checkpoint is `ac8f3aeecc2de842a54f00160b287ae02e708da6`. Terminal synthesis payload `afd375f2910637a62bed5ceae2b7b45901328b05` was published and exactly verified on main; the completion record preserves that observation and the full checkpoint chain.
 
 ## Exact next transition
 
