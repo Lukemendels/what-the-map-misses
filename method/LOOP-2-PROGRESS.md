@@ -105,3 +105,13 @@ R-14/R-16 pass separate independent technical audits and are published together 
 Repairs made before acceptance: SEAL's reference-answer/cost requirement is limited to its main configuration; its proxy-reward and stronger-prompt appendix evidence is included rather than omitted. A tiny inconsistency in a reported session average is handled by accurately attributing an approximate author-reported value. R-04's integration language now recognizes possible system learning through retained artifacts or learned controllers without base-weight updates; improved performance alone still does not establish durable learning. R-13's shared Reflexion capsule routes to R-14 while preserving its own inspected-version provenance.
 
 The reviews preserve positive evidence for bounded adaptation and training alongside limits on retention, rare-event competence, lawful portability and market viability. Neither expanded permissions nor a product feature is treated as proof of professional capability. No paid model calls, private implementation tests or new human experiments were performed. Exact remote verification follows publication.
+
+## R-14/R-16 verification and R-17 substantive checkpoint
+
+R-14/R-16 were published and exactly verified on main at `f74342f559a27dbd249e835a4bf37e1ccf51e607`.
+
+R-17 passes independent substantive review. All dedicated evidence strands were inspected, including the synergy meta-analysis, model-update compatibility, personalization and mutual adaptation, current personality-pairing manuscript, longitudinal-service evidence, human-team analogies, feedback and work-history signaling. Exact C-036/C-037 possibilities remain open; auxiliary tests do not replace them with guaranteed superiority.
+
+The review distinguishes total value of continuity from residual pair-specific advantage, and technical demonstrations from a validated executable résumé or portable labor-market asset. Counterevidence and version/access limitations remain explicit. R-04's repeated meta-analysis facts are consolidated into R-17, and temporary R-07/R-15 references now resolve to this review.
+
+This completes the individual research-review acceptance gates, not the whole campaign. Cross-program synthesis, exact outcome reconciliation and final quality/remote-closeout checks remain required. Exact verification of this checkpoint follows publication.

@@ -107,7 +107,7 @@ A related 2025 trial supplies positive counterevidence. Ninety-two physicians we
 
 These results should be compared, not averaged into a generic “doctor plus AI” effect. The tasks, rubrics, case presentation and samples differ. Their juxtaposition makes it untenable to infer usefulness or uselessness merely from professional expertise plus tool availability. It also shows why time is not always a cost to eliminate: extra deliberation may accompany a quality gain, while in another task duplication may add little. The choice requires the institution's actual outcome and risk criteria.
 
-The broader human–AI synergy synthesis is assigned to R-17 in the [program register](../README.md); the P&G and BCG experiments belong to [R-10](../R-10/README.md). They should enter cross-program synthesis through their source-owning reviews, rather than being recounted here as additional independent evidence.
+The broader human–AI synergy synthesis is in [R-17](../R-17/README.md#the-vaccaro-meta-analysis); the P&G and BCG experiments belong to [R-10](../R-10/README.md). They should enter cross-program synthesis through their source-owning reviews, rather than being recounted here as additional independent evidence.
 
 ## 6. Authority is a property of the institution as well as the interface
 
