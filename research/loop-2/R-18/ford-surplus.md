@@ -209,7 +209,7 @@ Verdicts concern the stated scope, not author adoption. “Unresolved” does no
 | Higher general deflation amplified the 1914 wage increase | C-044/C-045 | Contradicted for the observed general-price path | F06; distinguish relative automobile prices and real daily earnings. |
 | The job reliably supplied a house, car, family security and unsurpassed shared prosperity | C-044 | Unresolved | No representative household budget/employment/distribution comparison recovered. Do not forecast AI living standards from it. |
 | Ford brought back experienced engineers to help quality, training and automation | C-044 | Supported as attributed reporting, qualified | F10 establishes report provenance; F11 verifies only its separate initial-quality outcome. |
-| 350 AI-fired engineers were all rehired, proving causal rescue | C-044 | Unresolved and overstated | Missing personnel causal chronology; mixed recruitment and concurrent interventions. |
+| Researcher-derived overextension test, not an authored assertion: 350 AI-fired engineers were all rehired, proving causal rescue | C-044 context | Unresolved and overstated | Missing personnel causal chronology; mixed recruitment and concurrent interventions. |
 | Electrification created the 40-hour standard | C-045 | Revised/qualified | F07–F09: multiple causes; 1914, 1926, 1938 and 1940 are different events. |
 | Jevons made the coal-efficiency/expanded-use argument | C-045 | Supported within stated scope | F12, noting the inspected edition and historical/theoretical method. |
 | Efficiency necessarily increases total input use | C-045 | Contradicted as a universal law | F13–F14; expansion/backfire are conditional and counterfactual-dependent. |

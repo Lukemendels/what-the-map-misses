@@ -6,7 +6,7 @@
 
 **Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
 
-**Current phase:** R-18 complete and remotely verified; R-08, R-09 and R-10 active; remaining independent programs enter as worker capacity allows
+**Current phase:** Five substantive reviews complete (R-18, R-05, R-08, R-09, R-10); concurrent remaining research and staged quality review
 
 **Canonical manuscript:** Not established
 
@@ -22,9 +22,12 @@ Luke authorized substantial literature reviews across all eighteen programs, wit
 
 [R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. The R-18 checkpoint is remotely verified on main at `f9948f2ce67f7e13755021a68cfe1a6b1dd95664`.
 
-The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-08, R-09 and R-10 are active; fourteen reviews have not yet started. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
+The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-05, R-08, R-09 and R-10 have passed substantive independent review and are included in this publication checkpoint. R-01, R-02, R-11, R-12 and R-15 are in progress; eight programs have not yet started. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
 
 ## Main research implications so far
+
+The new reviews distinguish assisted output, retained learning, transfer and consequential judgment; explain senior knowledge as a conditional investment problem; test acquisition and coordination mechanisms; and separate productive architecture, education and operation from actual compensation. Version changes in published studies and proposition-level source scope are recorded rather than hidden.
+
 
 History requires distinctions among exchange, productive development, learning, compensation, investment and welfare. Several categorical predecessor claims need qualification or correction. These findings are recorded separately from the unchanged historical source corpus and ledger. Genuine evidence gaps remain explicit; no unsupported historical law becomes acceptable merely by author preference.
 
