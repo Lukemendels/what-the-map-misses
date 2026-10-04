@@ -229,7 +229,7 @@ The exact AutoReviewer chronology, its old/new failure distributions and its ful
 - **R-05/R-12/R-15:** a productive intervention is not proof of persistent advantage, compensation, aggregate welfare or ownership-based capture. A change in control rights is also not merely another software edit.
 - **R-07/R-13:** test whether the human can exercise authority and whether component failures are detectable and recoverable. A syntactically valid trace or a passing deterministic test does not certify the whole decision.
 - **R-08/R-09:** current completion and future capability stocks must both be measured when redesign removes practice or changes supervision. This review does not identify an optimal apprenticeship arrangement.
-- **R-14/R-16/R-17:** a better workflow with unchanged model weights is not evidence of machine learning, a persistent actor's development, or relationship-specific productivity.
+- **R-14/R-16/R-17:** improved workflow performance alone does not establish durable learning, actor development or pair-specific productivity. Identify the retained state and update mechanism; unchanged base weights do not rule out system learning through artifacts or a learned controller.
 
 Luke's decisions concern how much explanatory work the factory metaphor should do, whether to retain an attributed AutoReviewer account, and how to balance speed, human capability and legitimate authority in the argument. Those decisions cannot establish historical dates, representative prevalence or causal effects by preference. The evidence does not require abandoning the coupled-system thesis; it requires presenting it as a conditional account with observable mechanisms, rather than letting a vivid metaphor certify its scale or inevitability.
 

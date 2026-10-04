@@ -95,3 +95,13 @@ R-13 was published and exactly verified on main at `7ec4dbcd3317b11f122e873dc19c
 R-07 passes independent substantive review. Checks cover review and experiment denominators, wrong-advice/source-label outcomes versus overall performance, complementary teams, positive and null clinical interventions, accountability, philosophical criteria, primary accident findings and the enacted EU oversight timeline. C-014 remains a possibility claim; stronger hypotheses are expressly auxiliary. Formal approval, intervention rates, competence, practical authority, legitimate authority, responsibility and culpability are not treated as interchangeable.
 
 The review retains interventions that help and those with null or limited effects, rather than treating every human checkpoint as either sufficient or useless. Current legal duties and application dates are separated from empirical efficacy. Exact remote verification follows publication.
+
+## R-07 verification and R-14/R-16 substantive checkpoint
+
+R-07 was published and exactly verified on main at `dc1f890a554b719c458a8c3a8fa2dd11e4e2a0ef`.
+
+R-14/R-16 pass separate independent technical audits and are published together with their explicit dependencies reconciled. Primary checks cover persistence and update mechanisms, final source/benchmark versions, forgetting and transfer, privacy/copying, prompt and reward baselines, post-training selection budgets, simulations, safety and dated service facts.
+
+Repairs made before acceptance: SEAL's reference-answer/cost requirement is limited to its main configuration; its proxy-reward and stronger-prompt appendix evidence is included rather than omitted. A tiny inconsistency in a reported session average is handled by accurately attributing an approximate author-reported value. R-04's integration language now recognizes possible system learning through retained artifacts or learned controllers without base-weight updates; improved performance alone still does not establish durable learning. R-13's shared Reflexion capsule routes to R-14 while preserving its own inspected-version provenance.
+
+The reviews preserve positive evidence for bounded adaptation and training alongside limits on retention, rare-event competence, lawful portability and market viability. Neither expanded permissions nor a product feature is treated as proof of professional capability. No paid model calls, private implementation tests or new human experiments were performed. Exact remote verification follows publication.

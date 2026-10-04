@@ -21,8 +21,8 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-06 | [Tacit and situated knowledge](R-06/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-07 | [Meaningful human authority](R-07/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-13 | [Institutional reliability and MKS mechanisms](R-13/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
-| R-14 | Persistent cognition and capital formation | In progress |
-| R-16 | Machine professional development | In progress |
+| R-14 | [Persistent cognition and capital formation](R-14/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
+| R-16 | [Machine professional development](R-16/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-17 | Human–AI paired productivity | In progress |
 
 R-11 is placed before R-12 in the value/distribution group because accounting categories constrain the macro argument. This restores the program omitted from the verbal grouping while retaining the authorized all-eighteen scope. R-18 completed first. By the subsequent author instruction, remaining reviews may run concurrently across groups, with this order guiding slot assignment and dependencies reconciled at synthesis.

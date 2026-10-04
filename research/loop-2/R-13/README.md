@@ -101,7 +101,7 @@ A useful record should preserve failures and uncertainty, not just approvals. Bu
 
 ### External continuity is a mechanism rather than a guarantee
 
-Reflexion provides a bounded demonstration of agents using verbal feedback stored in external memory to alter later attempts without weight updates; the fuller evidence and persistence limits belong to R-14 [R13-S15](#r13-s15).
+The [Reflexion evidence capsule in R-14](../R-14/README.md#external-state-can-be-productive-without-weight-learning) supplies the external-feedback example. The institutional question here is how retained correction changes the next attempt, with the relevant state and failure modes made inspectable [R13-S15](#r13-s15).
 
 For C-031, the existential word *can* is crucial. A new test can block a previously accepted defect, or revised instructions can change a later instance's behavior, even if the base model is unchanged. Merely archiving an incident does neither. The record must be retrievable, relevant, correctly interpreted and connected to an action rule or decision. A remembered false lesson can systematically worsen later performance. A changed test may improve compliance while missing the substantive error it was meant to catch.
 
@@ -257,7 +257,7 @@ Baker, Bowen, et al. 2025. *Monitoring Reasoning Models for Misbehavior and the 
 
 ### R13-S15
 
-Shinn, Noah, et al. 2023. *Reflexion: Language Agents with Verbal Reinforcement Learning*. [arXiv 2303.11366v4, 10 October](https://arxiv.org/html/2303.11366v4). Inspected §3, evaluator definitions, ALFWorld protocol and limitations. **Cross-program bridge only:** the fuller capsule and persistent-capability interpretation belong to R-14; no benchmark percentage is duplicated here.
+Shared Reflexion source: R14-S10 carries the complete record and capsule. R-13 inspected [arXiv v4](https://arxiv.org/html/2303.11366v4), §3 and protocol/limitations; this is not an additional independent study.
 
 ### R13-S16
 
