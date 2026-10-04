@@ -16,7 +16,7 @@ Read AGENTS.md, STATUS.md, the historical Loop 1 specification, the full claim l
 6. R-14 persistent cognition; R-16 machine development; R-17 paired productivity.
 7. Cross-program synthesis, coverage/quality audit, author questions and final verified closeout.
 
-Independent work within a group may run concurrently. Dependency does not mean importing an earlier conclusion uncritically. Revisit cross-program claims at synthesis. Use one coordinated repository-writing stream. Native research workers may prepare disjoint artifacts, never race branch updates. No paid model/API route is authorized. Do not describe model routing beyond what was actually requested and verified.
+**4 October execution amendment after R-18:** Luke requested one coordinating loop with concurrent research across the remaining seventeen programs, using available workers aggressively. The list above now determines assignment priority, not a barrier between groups. R-18 was completed and remotely verified first. Start independent later programs as capacity allows; treat dependencies as explicit synthesis/reconciliation gates rather than unnecessary serial research. Dependency does not mean importing an earlier conclusion uncritically. Revisit cross-program claims at synthesis. Use one coordinated repository-writing stream. Native research workers may prepare disjoint artifacts, never race branch updates. No paid model/API route is authorized. Do not describe model routing beyond what was actually requested and verified.
 
 ## Required deliverable for every program
 
@@ -51,7 +51,7 @@ All programs must also satisfy the common gates above.
 
 ## Checkpoints, repair and terminal conditions
 
-Checkpoint A: publish this authorization/contract and honest in-progress STATUS; verify remote main contains the commit before research mission execution. Each program: publish review, ledger and source-access evidence after substantive quality review, record unresolved issues, then verify remote commit. R-18 must pass before other groups. Within groups, prepare independent work concurrently but publish sequentially. A blocked source does not stop independent sources or programs; a genuine authorization/access blocker remains visible.
+Checkpoint A: publish this authorization/contract and honest in-progress STATUS; verify remote main contains the commit before research mission execution. Each program: publish review, ledger and source-access evidence after substantive quality review, record unresolved issues, then verify remote commit. R-18 must pass before remaining research begins; that gate is satisfied. Prepare independent work across remaining groups concurrently, prioritize the earlier groups for assignment, and publish sequentially through the single coordinator. A blocked source does not stop independent sources or programs; a genuine authorization/access blocker remains visible.
 
 Use GitHub's authorized Git-data API if local Git is unavailable: base tree and single-parent commit on observed main, non-force update, then read branch/commit to verify the exact descendant. This meets remote durability without pretending local git commands ran. Before each update detect divergence and reconcile conservatively. Never force-push or alter protected history.
 

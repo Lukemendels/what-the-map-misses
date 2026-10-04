@@ -6,10 +6,10 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 
 | Program | Subject | Review state |
 |---|---|---|
-| R-18 | [Historical and biographical analogy audit](R-18/README.md) | Substantive review complete; checkpoint publication must be verified before continuation |
-| R-08 | Apprenticeship and learning | Not yet started |
-| R-09 | Labor, senior stocks and incentives | Not yet started |
-| R-10 | Specialization and acquisition cost | Not yet started |
+| R-18 | [Historical and biographical analogy audit](R-18/README.md) | Complete; remote checkpoint f9948f2 verified |
+| R-08 | Apprenticeship and learning | In progress |
+| R-09 | Labor, senior stocks and incentives | In progress |
+| R-10 | Specialization and acquisition cost | In progress |
 | R-05 | Competitive advantage and value capture | Not yet started |
 | R-11 | Own-account capital and welfare measurement | Not yet started |
 | R-12 | Macro adjustment and distribution | Not yet started |
@@ -25,7 +25,7 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-16 | Machine professional development | Not yet started |
 | R-17 | Human–AI paired productivity | Not yet started |
 
-R-11 is placed before R-12 in the value/distribution group because accounting categories constrain the macro argument. This restores the program omitted from the verbal grouping while retaining the authorized all-eighteen scope. R-18 completes first. Later dependencies are reconciled again in the final synthesis.
+R-11 is placed before R-12 in the value/distribution group because accounting categories constrain the macro argument. This restores the program omitted from the verbal grouping while retaining the authorized all-eighteen scope. R-18 completed first. By the subsequent author instruction, remaining reviews may run concurrently across groups, with this order guiding slot assignment and dependencies reconciled at synthesis.
 
 ## Completion discipline
 

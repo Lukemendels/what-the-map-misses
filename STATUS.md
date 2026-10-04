@@ -6,7 +6,7 @@
 
 **Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
 
-**Current phase:** R-18 historical literature review checkpoint; next R-08, R-09 and R-10 only after remote verification
+**Current phase:** R-18 complete and remotely verified; R-08, R-09 and R-10 active; remaining independent programs enter as worker capacity allows
 
 **Canonical manuscript:** Not established
 
@@ -20,9 +20,9 @@
 
 Luke authorized substantial literature reviews across all eighteen programs, with historical analogies first, and explicitly approved publication of the plan, reviews, evidence records and progress updates to this public repository.
 
-[R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. Remote durability must be verified after this checkpoint's publication before the next group begins.
+[R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. The R-18 checkpoint is remotely verified on main at `f9948f2ce67f7e13755021a68cfe1a6b1dd95664`.
 
-The [full program register](research/loop-2/README.md) retains all eighteen scopes. Seventeen reviews have not yet started. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
+The [full program register](research/loop-2/README.md) retains all eighteen scopes. R-08, R-09 and R-10 are active; fourteen reviews have not yet started. Luke subsequently requested concurrent research across the remaining programs, retaining priority order for slot assignment and dependency reconciliation at synthesis. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
 
 ## Main research implications so far
 
