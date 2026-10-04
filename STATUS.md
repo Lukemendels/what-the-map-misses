@@ -4,50 +4,34 @@
 
 **Repository state:** `LOOP_2_LITERATURE_REVIEWS_IN_PROGRESS`
 
-**Current phase:** Authorized all-eighteen literature-review campaign; contract checkpoint, R-18 first
+**Active loop:** [Eighteen substantial literature reviews](loops/02-eighteen-literature-reviews.md)
 
-**Active loop:** `loops/02-eighteen-literature-reviews.md` — externally researched, substantial reviews; no thesis freeze
+**Current phase:** R-18 historical literature review checkpoint; next R-08, R-09 and R-10 only after remote verification
 
-**Canonical manuscript:** Not yet established
+**Canonical manuscript:** Not established
 
-**Canonical thesis:** Not yet established
+**Canonical thesis:** Not established; the [Loop 1 candidate](book/thesis/THESIS-CANDIDATE-1.0.md) remains a protected historical snapshot
 
-**Candidate thesis:** `book/thesis/THESIS-CANDIDATE-1.0.md` — preserved Loop 1 snapshot; not frozen; current-state notice points to accepted decisions
+## Current author positions
 
-## Current state
+[D-001](decisions/resolved/D-001-middle-seat-apprenticeship.md) and [D-002](decisions/resolved/D-002-ownership-dominance.md), accepted 4 October 2026, remain current and revisable. Foundational understanding, informed tool use and supervised judgment development remain author intent; ownership remains one conditional capture channel alongside distinct productive labor activities. Research acceptance does not prove these positions or freeze them.
 
-Loop 1 remains complete: ten substantive admitted sources, 53 stable claims, an 18-case coherence audit and 18 open research programs. Its source files, opposing evidence and completion record are preserved.
+## Research progress
 
-On 4 October 2026 Luke accepted both author decisions, expressly reserving the right to change his mind:
+Luke authorized substantial literature reviews across all eighteen programs, with historical analogies first, and explicitly approved publication of the plan, reviews, evidence records and progress updates to this public repository.
 
-- [D-001](decisions/resolved/D-001-middle-seat-apprenticeship.md): learn manual fundamentals sufficient for understanding, use tools and abstractions on that foundation, and develop advanced judgment through supervised real work. Both masters and apprentices occupy the middle seat; occupancy alone does not develop expertise. Curriculum details and efficacy remain research questions.
-- [D-002](decisions/resolved/D-002-ownership-dominance.md): ownership is an important but conditional capture channel. Architecture, tool-use education and consequential operation are distinct productive activities and potential income routes. Foremen/mentors are progression within operation; productive contribution does not guarantee compensation.
+[R-18](research/loop-2/R-18/README.md) has a completed substantive synthesis, four detailed review components, proposition-level evidence ledgers, recoverable sources and access/method limitations. Its quality check records targeted independent verification and causal repairs. Remote durability must be verified after this checkpoint's publication before the next group begins.
 
-No D-001/D-002 author choice remains pending. The original packets remain at their existing paths for provenance, with links to the accepted records. Loop 1's ledger, map, audit and candidate carry explicit historical-snapshot notices rather than silently rewriting the original extraction. Full candidate/ledger revision has not been performed.
+The [full program register](research/loop-2/README.md) retains all eighteen scopes. Seventeen reviews have not yet started. R-11 precedes R-12 in the value/distribution group to supply accounting distinctions missing from the verbal grouping. No later program is silently marked complete by overlap in the historical review.
 
-Acceptance is not empirical validation. All 18 research programs remain open. No external research, chapter drafting or thesis freeze occurred in this recording step.
+## Main research implications so far
 
-## Principal artifacts
+History requires distinctions among exchange, productive development, learning, compensation, investment and welfare. Several categorical predecessor claims need qualification or correction. These findings are recorded separately from the unchanged historical source corpus and ledger. Genuine evidence gaps remain explicit; no unsupported historical law becomes acceptable merely by author preference.
 
-- [Accepted decision index](decisions/README.md)
-- [D-001 accepted position](decisions/resolved/D-001-middle-seat-apprenticeship.md)
-- [D-002 accepted position](decisions/resolved/D-002-ownership-dominance.md)
-- [Existing research register](evidence/claims/CLAIM-LEDGER.md#research-register)
-- [Loop 1 candidate](book/thesis/THESIS-CANDIDATE-1.0.md)
-- [Historical Loop 1 completion](method/LOOP-1-COMPLETION.md)
-- [Recording scope and gates](loops/01a-record-author-decisions.md)
+## Preserved provenance
 
-## Loop 2 authorization and next transition
-
-On 4 October 2026 Luke authorized all eighteen substantial literature reviews, historical analogies first. The [active contract](loops/02-eighteen-literature-reviews.md) defines per-program questions, literature-synthesis gates, remote checkpoints and termination. No program is yet complete. R-11 is included before R-12 in the value/distribution group so accounting categories constrain macro interpretation. The historical Loop 1 artifacts and accepted revisable decisions remain protected.
-
-### Prior transition preserved for provenance
-
-Select and authorize a bounded research loop using the existing R-01–R-18 programs, or separately authorize full candidate revision. D-001 sharpens R-08's foundational-practice, supervised-learning and transfer questions. D-002 sharpens R-05/R-12/R-15's distinct contributions, compensation, competition and control-rights questions, including the educator's contribution. Research must retain counterevidence and may motivate later explicit author revision.
-
-This recording does not itself start research or establish THESIS-1.0.
+Loop 1 remains complete, with ten admitted substantive sources, 53 stable claim IDs, its coherence audit and 18-program register. Its original opposing evidence, decisions and completion record remain intact. The author-decision recording checkpoint is `af95fe0e2e43766500680b6dddea4a1e7c1596e9`; Loop 2's contract checkpoint is `1b2f85555b0d4b78e703a089ee1a7aaf6c41a9b7`, verified on main before research began.
 
 ## State rule
 
-The authoritative durable state is the pushed and verified remote repository. This recording's terminal state is reportable only after its descendant commit is verified on main. The narrow recording starts from `f3999d96b9e74bb68873fe502c8e6e7f35abeb25`; the original Loop 1 verification remains in its unchanged completion record.
-
+The authoritative state is the remote public repository on main. A prepared artifact or Git commit alone does not meet durability. Publication uses non-force descendant commits and exact remote-reference verification. The overall task is not complete until all eighteen reviews and the cross-program closeout pass the active loop's gates. No chapters are drafted and no thesis is frozen in this loop.
