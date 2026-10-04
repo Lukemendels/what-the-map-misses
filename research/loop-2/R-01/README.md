@@ -85,7 +85,7 @@ Consider a reviewer who accepts a correct answer with probability a and an incor
 
 Nor should uncertainty be hidden inside an average loss estimate. Rare consequential errors can be absent from a small evaluation. A deployment may face model updates, new clients, adversarial input, or changed tools unlike its validation sample. Operationally relevant research therefore reports uncertainty about both frequency and severity, coverage of the tested distribution, and what happens when the system declines. Declining a query can be economically sensible if a fallback exists; if no qualified reviewer is available, “human in the loop” only names an unfilled requirement.
 
-The campaign's [R-13 institutional reliability program](../README.md#program-register-in-authorized-order) is responsible for the detailed evidence on consistency, correlated failures, recovery and enforceability. R-01's contribution is the accounting implication: every control has both a benefit and a resource requirement, and must be included in the policy being compared. Institutional cost does not refute cheap inference; it determines how much of that cheapness reaches useful output.
+The campaign's [R-13 institutional reliability review](../R-13/README.md) is responsible for the detailed evidence on consistency, correlated failures, recovery and enforceability. R-01's contribution is the accounting implication: every control has both a benefit and a resource requirement, and must be included in the policy being compared. Institutional cost does not refute cheap inference; it determines how much of that cheapness reaches useful output.
 
 ## 4 From controlled performance to work in organizations
 
@@ -255,7 +255,7 @@ All sources were inspected on 4 October 2026. Dates below identify the versions 
 
 ### Shared sources and access limits
 
-The detailed customer-support, P&G/BCG, Danish, Bessen and historical capsules remain with R-09, R-10, R-05, R-12 and R-18 respectively, as linked above. This review uses their analytical relevance without reprinting their summaries. The [R-13 program](../README.md#program-register-in-authorized-order) should own detailed reliability synthesis; Rabanser et al.'s [June 2, 2026 v3](https://arxiv.org/html/2602.16666v3), including experimental setup and limitations, was examined as a coordination lead rather than a separate quantitative result here.
+The detailed customer-support, P&G/BCG, Danish, Bessen and historical capsules remain with R-09, R-10, R-05, R-12 and R-18 respectively, as linked above. This review uses their analytical relevance without reprinting their summaries. The [R-13 review](../R-13/README.md) should own detailed reliability synthesis; Rabanser et al.'s [June 2, 2026 v3](https://arxiv.org/html/2602.16666v3), including experimental setup and limitations, was examined as a coordination lead rather than a separate quantitative result here.
 
 The Noy–Zhang writing study was investigated as a potential additional causal source. The accessible March 2023 MIT manuscript differs from the final Science record, whose full text returned 403. Because other accessible causal evidence and the shared reviews already cover the required contrast, no final-version effect size is inferred from that older manuscript. The Stanford AI Index headline was likewise treated as a lead to underlying price research rather than an additional independent observation.
 

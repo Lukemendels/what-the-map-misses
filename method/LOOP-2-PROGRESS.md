@@ -79,3 +79,11 @@ R-03/R-04 were published and exactly verified on main at `867c7fc9a0858b76a3a427
 R-06 passes independent substantive review. Targeted primary checks cover philosophical disagreement about tacitness, institutional learning, empirical transfer and monitoring designs, technical learning versions/denominators and consent guidance. The superseded eternal-monopoly assertion, current workflow-specific contribution and provisional defenses are kept distinct. Observation, representation, inference, practice and legitimate access are not collapsed into a species-level boundary. Counterevidence is integrated without asserting complete machine capture of all situated knowledge.
 
 The recoverable Polanyi source link was improved to the working official www host. The review preserves bounded technical examples, conditional surveillance effects and genuine knowledge/access gaps. No private institutional evidence was sought. Exact remote verification follows publication.
+
+## R-06 verification and R-13 substantive checkpoint
+
+R-06 was published and exactly verified on main at `a182392e45c0c532e20cedb56d8335cdc26b6764`.
+
+R-13 passes independent technical and institutional review. Primary checks include benchmark versions and corrected denominators, enforcement utility and overhead, correlated-error conditions, formal-verification assumptions, microreboot scope, failure-taxonomy sampling, reasoning-monitor comparisons and the bounded principal-agent analogy. Exact claim routing preserves both the normative objective and the limits of the proposed implementation. V3 already described a particular-kernel reset; V4 is not turned into a universal anti-restart doctrine.
+
+Enforcing observable predicates, keeping behavioral records and repairing local failures are distinguished from knowing semantic truth, exposing faithful reasoning or guaranteeing safety. No private MKS implementation was accessed or validated. R-01's temporary program references now link to the completed reliability review. Exact remote verification follows publication.

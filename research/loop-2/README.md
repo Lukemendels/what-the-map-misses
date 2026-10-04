@@ -20,7 +20,7 @@ The [active contract](../../loops/02-eighteen-literature-reviews.md) defines all
 | R-04 | [Redesign mechanism and electrification](R-04/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-06 | [Tacit and situated knowledge](R-06/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-07 | Meaningful human authority | In progress |
-| R-13 | Institutional reliability and MKS mechanisms | In progress |
+| R-13 | [Institutional reliability and MKS mechanisms](R-13/README.md) | Substantive review and independent quality gate complete; checkpoint verification follows publication |
 | R-14 | Persistent cognition and capital formation | In progress |
 | R-16 | Machine professional development | In progress |
 | R-17 | Human–AI paired productivity | In progress |
