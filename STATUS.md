@@ -2,11 +2,11 @@
 
 **Project:** What the Map Misses
 
-**Repository state:** `AUTHOR_DECISIONS_RECORDED_REVISABLE`
+**Repository state:** `LOOP_2_LITERATURE_REVIEWS_IN_PROGRESS`
 
-**Current phase:** D-001 and D-002 accepted and recorded as current, revisable author positions
+**Current phase:** Authorized all-eighteen literature-review campaign; contract checkpoint, R-18 first
 
-**Active loop:** `loops/01a-record-author-decisions.md` — narrow recording closeout
+**Active loop:** `loops/02-eighteen-literature-reviews.md` — externally researched, substantial reviews; no thesis freeze
 
 **Canonical manuscript:** Not yet established
 
@@ -37,7 +37,11 @@ Acceptance is not empirical validation. All 18 research programs remain open. No
 - [Historical Loop 1 completion](method/LOOP-1-COMPLETION.md)
 - [Recording scope and gates](loops/01a-record-author-decisions.md)
 
-## Next intended transition
+## Loop 2 authorization and next transition
+
+On 4 October 2026 Luke authorized all eighteen substantial literature reviews, historical analogies first. The [active contract](loops/02-eighteen-literature-reviews.md) defines per-program questions, literature-synthesis gates, remote checkpoints and termination. No program is yet complete. R-11 is included before R-12 in the value/distribution group so accounting categories constrain macro interpretation. The historical Loop 1 artifacts and accepted revisable decisions remain protected.
+
+### Prior transition preserved for provenance
 
 Select and authorize a bounded research loop using the existing R-01–R-18 programs, or separately authorize full candidate revision. D-001 sharpens R-08's foundational-practice, supervised-learning and transfer questions. D-002 sharpens R-05/R-12/R-15's distinct contributions, compensation, competition and control-rights questions, including the educator's contribution. Research must retain counterevidence and may motivate later explicit author revision.
 
@@ -46,3 +50,4 @@ This recording does not itself start research or establish THESIS-1.0.
 ## State rule
 
 The authoritative durable state is the pushed and verified remote repository. This recording's terminal state is reportable only after its descendant commit is verified on main. The narrow recording starts from `f3999d96b9e74bb68873fe502c8e6e7f35abeb25`; the original Loop 1 verification remains in its unchanged completion record.
+

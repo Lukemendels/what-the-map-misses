@@ -1,0 +1,60 @@
+# Loop 2 — Eighteen substantial literature reviews
+
+## Human authorization and authority
+
+On 4 October 2026 Luke authorized external research across all eighteen existing programs, expressly requesting substantial literature reviews rather than a pilot, summaries of links, or a bibliography. He directed historical analogies first, followed by the earlier priority groups, and requested notification when all eighteen are complete. This loop supersedes Loop 1's research exclusion for this mission only. Base: `af95fe0e2e43766500680b6dddea4a1e7c1596e9` on public `Lukemendels/what-the-map-misses`, authoritative branch `main`.
+
+Read AGENTS.md, STATUS.md, the historical Loop 1 specification, the full claim ledger and relevant admitted source text before researching. D-001 and D-002 are accepted but revisable author positions, not empirical findings. Preserve source files, historical ledger/audit/candidate, decisions, and contrary evidence. No private context, chapters, normative author choices, thesis freeze, paid APIs, upgrades, accounts, or third-party contacts are authorized. Respect paywalls.
+
+## Execution and dependency order
+
+1. R-18 historical and biographical analogy audit, including the newly admitted AI build-out comparison lead. Complete and remotely checkpoint this review before dependent programs.
+2. R-08 apprenticeship; R-09 labor/senior stocks; R-10 specialization/acquisition cost.
+3. R-05 competition/capture; R-11 own-account capital/welfare; R-12 macro/distribution; R-15 residual rights. R-11 was absent from the verbal grouping but remains expressly within the all-eighteen authorization; put it before R-12 because accounting categories constrain macro interpretation.
+4. R-01 cognition supply/demand; R-02 software lifecycle; R-03 economic definitions; R-04 redesign/electrification. Definitions may be flagged provisionally earlier; this group must reconcile them explicitly.
+5. R-06 tacit knowledge; R-07 meaningful authority; R-13 institutional reliability.
+6. R-14 persistent cognition; R-16 machine development; R-17 paired productivity.
+7. Cross-program synthesis, coverage/quality audit, author questions and final verified closeout.
+
+Independent work within a group may run concurrently. Dependency does not mean importing an earlier conclusion uncritically. Revisit cross-program claims at synthesis. Use one coordinated repository-writing stream. Native research workers may prepare disjoint artifacts, never race branch updates. No paid model/API route is authorized. Do not describe model routing beyond what was actually requested and verified.
+
+## Required deliverable for every program
+
+A stand-alone analytical literature review under `research/loop-2/`, with recoverable bibliography, source-access/method appendix and claim-level evidence ledger. It must identify precise admitted claims and questions; synthesize relevant schools, debates and mechanisms; compare empirical/historical results, methods, populations and contexts; explain agreement and disagreement; preserve material counterevidence; distinguish causal identification, association, theory and forecast; and analyze mechanisms, boundary conditions, historical analogy fits/failures, implications and gaps for the book.
+
+Read substantive accessible text, not only titles, abstracts or bibliographies. Record access limits and exactly what was inspected. Strong primary and scholarly sources should be diverse in method and intellectual position. A primary source is not automatically reliable. Identify sample, selection, measurement, identification, sponsor, period, geography and generalization limits as relevant. Do not invent sample sizes, source access or closure. Recovered primary documents may settle narrow historical facts while leaving causal interpretations disputed. Search snippets are leads only.
+
+Assign per-program source IDs and locators. Claim-level judgments: supported within stated scope, revised/qualified, contradicted in stated scope, or unresolved. Research judgments are separate from author adoption. Explain downstream dependencies and author-only decisions. A literature review requires integrated analytical prose and comparative argument, not an annotated list alone. No arbitrary word count or source count proves adequacy.
+
+## Program-specific admitted scope and termination questions
+
+All programs must also satisfy the common gates above.
+
+- **R-18 / C-042,044,045,046,048:** Audit Ricardo and Methuen/Portugal, industrialization/vineyard causation; Ford assembly time, wages, prices and rehiring; Jevons; printing-to-smartphone surplus narratives; workweek causation; Jones and Rogan/da Vinci biography. Trace the WSJ/Putzier/Lahart AI-buildout lead via Brookings/Stijn Van Nieuwerburgh, distinguish projected investment/GDP from combined technological effects, reconstruct methods and comparable denominators. Conclude only when every analogy is mapped to verified facts, disputes, breaks and safe argumentative use or explicit evidence gaps. Electrification overlap must inform R-04.
+- **R-08 / C-015,016,017,018,021,053:** Compare review-only AI work, unaided fundamentals, deliberate practice, tutoring/building and supervised consequential work; separate assisted task performance from retained learning and transfer. Test D-001's sequence, senior support and training substitution; specify evidence gaps by domain and learning outcome.
+- **R-09 / C-017,044:** Review firm-specific skills, senior stocks, turnover/retirement/recruiting, present correction versus training, employer incentives and wage/prosperity hypotheses. Resolve Ford rehiring lead as verified or unresolved; avoid inferring inevitable skill collapse from layoffs.
+- **R-10 / C-020,021,022,048:** Recover Jones's burden-of-knowledge mechanism; compare acquisition cost, prerequisites, cognitive/coordination limits, depth, transfer and integrator advantages; scrutinize biography selection and whether AI evidence establishes partial reversal.
+- **R-05 / C-009,039,040,041,050:** Contrast ownership, architecture, education and operation as productive contributions and compensation routes; synthesize complementary assets, dynamic capability, imitation, bargaining and residual control. Test persistence rather than assume rents; distinguish value creation from capture.
+- **R-11 / C-023,024,025:** Compare household/volunteer and firm own-account software; inspect accounting guidance, opportunity/maintenance costs, capital services, surplus and GDP boundaries. Determine what low/no transaction price does and does not establish.
+- **R-12 / C-025,040,041,045:** Review general-equilibrium adjustment, substitution/complementarity, demand elasticity, bottlenecks, rents, distribution and price effects. Test rather than repeat surplus-phase and deflation narratives; reconcile R-11 measurements and R-18 historical limits.
+- **R-15 / C-034,037,038,039,040,041,050:** Review firm-specific and relational capital, incomplete contracts, residual rights, portability, confidentiality and copying. Separate legal jurisdiction/institutional rules from economic theory; identify which experiential asset may be owned/transferred and which questions require author choice or legal advice.
+- **R-01 / C-001,006,053:** Review effective cost per useful completed task, capability scope, verification cost, intensive/extensive demand and elasticity, including uneconomical tasks. Separate benchmark/price trends from realized outcomes.
+- **R-02 / C-002,006,007,022,049,050,051,053:** Recover admitted OpenAI/METR leads with dates/denominators; compare experiments, prototypes and maintained secure systems, nondeveloper diffusion and no-code. Do not privately validate author testimony. Account for lifecycle quality/security/maintenance and contradictory productivity findings.
+- **R-03 / C-004,046:** Reconcile operational workflow language with formal production functions, organization and technical change; correct comparative versus absolute advantage and factor terminology without selecting a normative thesis.
+- **R-04 / C-005,006,008,043,053:** Review electrification chronology, unit drive, complementarity and productivity attribution; test model/code/human division on completed-work measures. Seek only public corroboration of AutoReviewer, retaining first-person status if unavailable; do not universalize layout explanations.
+- **R-06 / C-010,011,047:** Recover Polanyi and institutional learning; distinguish tacit, unrecorded, inarticulable and counterfactual knowledge; examine observation, sensors, consent and relocation. Preserve evidence against permanent human monopoly.
+- **R-07 / C-014:** Synthesize automation bias, review load, vigilance, intervention ability, organizational responsibility and meaningful control. Separate capability from legitimacy; identify operational measures and normative limits.
+- **R-13 / C-026,028,029,030,031,053:** Evaluate error recovery, deterministic checks, trust/delegation, correlation, detection limits, overhead, principal-agent claims and trace verifiability. Specifications are proposals; compare technical and organizational evidence without declaring truth solved.
+- **R-14 / C-030,033,034,035,047:** Distinguish retrieval/context/state, inference adaptation and weight learning; review continual learning, forgetting, stability, copying and cost. Do not equate authority progression with RLHF or persistent records with durable learned capability.
+- **R-16 / C-035:** Verify contemporary post-training methods and evidence for actor-specific simulation, rare-event training, transfer, safety and feasibility. Distinguish tests from durable learning and forecasts from available products.
+- **R-17 / C-036,037:** Compare human/counterpart, fresh models and firm-owned actors; analyze relationship history, pairing, transfer and executable-resume proposition with explicit empirical gaps and counterfactual comparison designs.
+
+## Checkpoints, repair and terminal conditions
+
+Checkpoint A: publish this authorization/contract and honest in-progress STATUS; verify remote main contains the commit before research mission execution. Each program: publish review, ledger and source-access evidence after substantive quality review, record unresolved issues, then verify remote commit. R-18 must pass before other groups. Within groups, prepare independent work concurrently but publish sequentially. A blocked source does not stop independent sources or programs; a genuine authorization/access blocker remains visible.
+
+Use GitHub's authorized Git-data API if local Git is unavailable: base tree and single-parent commit on observed main, non-force update, then read branch/commit to verify the exact descendant. This meets remote durability without pretending local git commands ran. Before each update detect divergence and reconcile conservatively. Never force-push or alter protected history.
+
+Quality reviewer must check coverage against this specification, inspect load-bearing source evidence and access claims, challenge alternative explanations and overstatement, and require causal repairs where needed. Deterministic checks cover all eighteen unique IDs, required artifact sections, claim references, links and unchanged protected blobs. Structural checks do not prove literature-review quality.
+
+Terminal success requires all eighteen substantive reviews with claim-level outcomes, evidence/bibliography/access records, cross-program synthesis, unresolved evidence gaps and author questions; semantic review and deterministic checks; preserved protected corpus; consistent STATUS; and final commit verified on remote main. Explicit unknowns are allowed, superficial closure is not. Record `LOOP_2_COMPLETE_RESEARCH_REVIEW_READY` only then. Until then use `LOOP_2_LITERATURE_REVIEWS_IN_PROGRESS`; if further authorized work genuinely cannot proceed record `LOOP_2_BLOCKED` with exact blocker and last verified checkpoint. No thesis is frozen, no chapter is drafted, and no author judgment is silently adopted by completion.
